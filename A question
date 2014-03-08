@@ -1,0 +1,6 @@
+hi, i am new to github so i am not quite sure this is the best way to comunicate. My question is,
+can you make a exapmle where you would use fliters and masks for CAN massages. For example, you have two arduino's
+comunicating via CAN bus, one is only sending messages (messages with extended ID's) and the other is supposed to 
+read only messages with specific ID's.
+
+Thanks
